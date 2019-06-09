@@ -1,0 +1,5 @@
+# First-Person-Shooter-Game
+
+Box Shooter is a first person shooter game which provides a three dimensional virtual environment and gives ability to the players to shoot target objects. First-person shooter games are a type of three-dimensional shooter game which features a first-person point of view with which the player sees the action through the eyes of the player character. In this game the player can move the game character freely within the virtual environment. The player can also control the perspective of the camera at any dimension to display what he wishes to see with the help of computer mouse. From the sky of the environment 3D box shaped targets generate. There are two main objectives of the player. Firstly, the player has to shoot green objects that generate points. Secondly the player has to keep track of his lifetime in the game and shoot the blue objects that extends the lifetime of player. Shooting the red objects will result in decrease of lifetime.
+
+For more visit: https://nazmulhaque101.github.io/projects.html
